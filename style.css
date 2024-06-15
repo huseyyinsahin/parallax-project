@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.parallax {
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.position {
+  background-color: #96d5a8;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  padding: 30px;
+  width: 20%;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  outline: 10px solid #212a34;
+  outline-offset: 1rem;
+  text-transform: uppercase;
+}
+.parallax1 {
+  background-image: url(/image/manzara1.jpg);
+}
+.parallax2 {
+  background-image: url(/image/manzara2.jpg);
+}
+.parallax3 {
+  background-image: url(/image/manzara3.jpg);
+}
+.parallax4 {
+  background-image: url(/image/manzara4.jpg);
+}
+.parallax5 {
+  background-image: url(/image/manzara5.jpg);
+}
+.content {
+  padding: 40px;
+  background-color: #f1f1f1;
+  color: gray;
+  font-size: 1.2rem;
+  text-align: center;
+  font-family: "Playwrite NL", cursive;
+}
+.content1 {
+  background-color: #6b7279;
+  color: white;
+}
+footer {
+  text-align: center;
+  background-color: #f1f1f1;
+  color: gray;
+  padding: 2rem;
+}
