@@ -30,19 +30,19 @@
   text-transform: uppercase;
 }
 .parallax1 {
-  background-image: url(/image/manzara1.jpg);
+  background-image: url(./image/manzara1.jpg);
 }
 .parallax2 {
-  background-image: url(/image/manzara2.jpg);
+  background-image: url(./image/manzara2.jpg);
 }
 .parallax3 {
-  background-image: url(/image/manzara3.jpg);
+  background-image: url(./image/manzara3.jpg);
 }
 .parallax4 {
-  background-image: url(/image/manzara4.jpg);
+  background-image: url(./image/manzara4.jpg);
 }
 .parallax5 {
-  background-image: url(/image/manzara5.jpg);
+  background-image: url(./image/manzara5.jpg);
 }
 .content {
   padding: 40px;
